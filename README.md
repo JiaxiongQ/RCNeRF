@@ -1,5 +1,5 @@
 # RCNeRF
-This is the official repo for the implementation of "Rendering Real-World Unbounded Scenes with Cars by Learning Positional Bias" paper (TVC 2023).
+This is the official repo for the implementation of "[Rendering Real-World Unbounded Scenes with Cars by Learning Positional Bias](https://link.springer.com/article/10.1007/s00371-023-03070-y)" paper (TVC 2023).
 
 We will release our code soon!
 
